@@ -1,0 +1,26 @@
+.user{
+   border: 2px solid black; 
+   border-collapse: collapse;
+   width: 700px;
+   height: 100px;
+}
+th , td{
+    border: 2px solid black;
+    text-align: center;
+}
+.red{
+    background-color: red;
+}
+.header{
+    background-color: yellow;
+}
+.num{
+    background-color: blue;
+    color: white;
+}
+.yellw{
+    background-color: yellow;
+}
+.bot{
+    background-color: aqua;
+}
